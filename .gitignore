@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# JCE context index runtime state
+.opencode-jce/
+.opencode-context.md
